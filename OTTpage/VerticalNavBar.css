@@ -1,0 +1,20 @@
+.vertical-nav {
+    width: 200px;
+    position: fixed;
+    height: 100%;
+    background-color: #111;
+    padding-top: 20px;
+  }
+  
+  .vertical-nav a {
+    padding: 10px 15px;
+    text-decoration: none;
+    font-size: 18px;
+    color: white;
+    display: block;
+  }
+  
+  .vertical-nav a:hover {
+    background-color: #575757;
+  }
+  

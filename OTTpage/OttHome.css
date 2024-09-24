@@ -1,0 +1,32 @@
+.headerStyle{
+    text-align: left;
+    background-color: black;
+    color: rgb(175, 174, 176);
+    width: 100%;
+    box-shadow: 2px 2px 15px  rgba(255, 255, 255, 0.483);
+}
+.TVlogo{
+    width: 60px;
+    height: 60px;
+}
+.aStyle{
+    text-decoration: none;
+    color: inherit;
+    
+}
+.vertical-nav {
+    width: 200px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    background-color: #111;
+    padding-top: 20px;
+    display: none;
+  }
+.logoDiv:hover .vertical-nav{
+    display: block;
+}
+.OttIntro{
+    width: 100%;
+}
